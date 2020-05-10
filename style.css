@@ -1,0 +1,25 @@
+body{ background: whitesmoke;}
+section{ background:#EEE0CB;}
+h1 { 
+    color:#280003; 
+}
+p { 
+    color: black
+}
+h2 { 
+    color: #6D213C
+}
+.second-header {
+color:#6D213C
+}
+#top {background:#C2847A
+}
+a {
+    color: #870058
+}
+nav a {
+    color: #870058
+}
+.javascript-yellow {
+    background-color: #f7df1e;
+}
