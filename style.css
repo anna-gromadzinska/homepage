@@ -1,13 +1,10 @@
 body{ background: whitesmoke;}
 section{ background:#EEE0CB;}
-h1 { 
+.h1-heading { 
     color:#280003; 
 }
-p { 
+.paragraph-style { 
     color: black
-}
-h2 { 
-    color: #6D213C
 }
 .second-header {
 color:#6D213C
